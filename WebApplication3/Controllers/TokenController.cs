@@ -23,6 +23,7 @@ namespace WebApplication3.Controllers
         public bool CheckUser(string username, string password)
         {
             // should check in the database
+
             return true;
         }
     }
